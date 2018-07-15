@@ -24,3 +24,5 @@ Rivu Chakraborty (Books discount) twitter link : https://twitter.com/rivuchakrab
 Presentation link: https://speakerdeck.com/vedant1811/custom-views-as-components-droidjam-18
 Project link : https://github.com/vedant1811/android-architecture/tree/va/components
 Blogs link:https://medium.com/@vedantsopinions/custom-views-as-components-why-fb5a06d4b305,https://medium.com/@vedantsopinions/unit-testing-components-dd8a7efa5afa
+# Decoding Android Runtime - Jitin Sharma
+Presentation link:https://speakerdeck.com/jitinsharma/decoding-android-runtime-droidjam-2018
