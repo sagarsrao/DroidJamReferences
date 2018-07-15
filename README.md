@@ -22,3 +22,4 @@ Presentation link : https://speakerdeck.com/rivuchk/droidjam-india-18-arrow-and-
 Rivu Chakraborty (Books discount) twitter link : https://twitter.com/rivuchakraborty/status/1017773214435401728
 # Custom Views as Components - Vedant Agarwala
 Presentation link: https://speakerdeck.com/vedant1811/custom-views-as-components-droidjam-18
+Project link : https://github.com/vedant1811/android-architecture/tree/va/components
