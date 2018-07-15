@@ -20,3 +20,5 @@ Blog link :https://medium.com/@codedsun/droidjam-2018-day-2-77b001c43c1a (Day 02
 # Arrow and functional programming for Kotlin developers - Rivu Chakraborty
 Presentation link : https://speakerdeck.com/rivuchk/droidjam-india-18-arrow-and-functional-programming-for-kotlin-developers
 Rivu Chakraborty (Books discount) twitter link : https://twitter.com/rivuchakraborty/status/1017773214435401728
+# Custom Views as Components - Vedant Agarwala
+Presentation link: https://speakerdeck.com/vedant1811/custom-views-as-components-droidjam-18
