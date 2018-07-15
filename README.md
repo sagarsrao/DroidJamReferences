@@ -12,3 +12,5 @@ https://github.com/ragdroid/klayground ----(Android Kotlin)
 # Building ARCore apps using Sceneform
 Presentation link:https://speakerdeck.com/hariofspades/building-arcore-apps-using-sceneform
 Project link: https://github.com/Hariofspades/ARExperiments
+# why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a (Flash talk)
+Blog link: https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a
